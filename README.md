@@ -1,5 +1,7 @@
-## Next.js App Router Course - Starter
+## Learning Next.js
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+- I am learning Next.js by following the NextJS course by Vercel to build Acme
+- As I have finished with NestJS, for now, It is time to move on to the client-side of things
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
+
